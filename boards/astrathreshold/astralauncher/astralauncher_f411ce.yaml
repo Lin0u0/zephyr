@@ -1,0 +1,15 @@
+identifier: astralauncher_f411ce
+name: Astra Launcher 32F4
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+supported:
+  - counter
+  - spi
+  - i2c
+  - uart
+  - pwm
+  - adc
+vendor: weact

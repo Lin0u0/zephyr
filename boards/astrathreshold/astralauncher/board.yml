@@ -1,0 +1,6 @@
+board:
+  name: astralauncher_f411ce
+  full_name: Astra Launcher 32F4
+  vendor: weact
+  socs:
+    - name: stm32f411xe
